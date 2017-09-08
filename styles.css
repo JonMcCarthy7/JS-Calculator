@@ -3,12 +3,24 @@ html body {
   font-family: 'Orbitron', sans-serif;
 }
 
+#deleteAll {
+  padding-left: 6px;
+}
+
+#backOne {
+  padding-left: 6px;
+}
+
+.header {
+  margin-top: 3em;
+}
+
 #calcOutput {
   background-color: #fff;
   width: 250px;
   height: 75px;
-  border-top-left-radius: : 2em;
-  border-top-right-radius: : 2em;
+  border-top-left-radius: 2em;
+  border-top-right-radius: 2em;
   margin-right: auto;
   margin-left: auto;
   margin-top: 20px;
